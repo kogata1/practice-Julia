@@ -6,3 +6,4 @@ plot(x,y)
 y2=y.*y
 
 plot(x,y2)
+print("hi")
